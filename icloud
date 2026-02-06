@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Benim Bedava Sitem</title>
+    <style>
+        body { font-family: sans-serif; background: #f0f8ff; text-align: center; padding-top: 50px; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Merhaba Dünya!</h1>
+    <p>Bu benim GitHub Pages ile oluşturduğum ilk ve ücretsiz sitem.</p>
+</body>
+</html>
